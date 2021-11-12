@@ -1,0 +1,7 @@
+import crypto from 'crypto';
+import { Params } from '@feathersjs/feathers';
+import { Service, NedbServiceOptions } from 'feathers-nedb'; 
+
+import { Application } from '../../declarations'
+
+const gravityUrl = 'https://s.gravatar.com/avatar';

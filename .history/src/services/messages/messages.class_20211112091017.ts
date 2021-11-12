@@ -1,0 +1,1 @@
+import { Service, NedbServiceOptions } from 'feathers-'

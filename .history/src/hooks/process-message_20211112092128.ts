@@ -1,0 +1,1 @@
+import { Hook, HookContext } from '@feathersjs/feathersjs';
